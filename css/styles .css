@@ -1,0 +1,40 @@
+.t1{
+    text-align: center;
+}
+
+
+.B1A-nav{
+    background-color:burlywood  ;
+    margin: 0;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.B1-nav{
+    display: inline-block;
+}
+
+.B1-nav a{
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+    padding: 20px 10px 20px 20px;
+    border-right: 1px solid #ffffff;
+}
+
+.B1-nav:hover a{
+
+    background-color: #ffffff;
+    color:#39a900
+}  
+
+.B1-nav:active a{
+    background-color: #ffffff;
+    color:darkred
+}
+
+.btn{
+
+    background-color: bisque;
+}
